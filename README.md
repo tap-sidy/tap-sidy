@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**tap-sidy/tap-sidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student in IT / Computer Science  
+💻 Learning Web Development & Programming  
+🌍 Based in Mali  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- HTML, CSS, JavaScript
+- Git & GitHub
+- Linux (basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently learning
+- React
+- Javascript
+- Python
+
+## 📫 Contact
+- Email: tapilysidy@email.com
+- linkedin : https://www.linkedin.com/in/sidy-tapily-712385381/
