@@ -1,19 +1,34 @@
-## Hi there 👋
+# Hi there 👋
 
-🎓 Student in IT / Computer Science  
-💻 Learning Web Development & Programming  
-🌍 Based in Mali  
+I'm an **IT / Computer Science student** passionate about technology and programming.
+
+🌍 **Location:** Mali  
+💻 **Interests:** Web Development & Software Programming  
+
+---
 
 ## 🚀 Skills
-- HTML, CSS, JavaScript
-- Git & GitHub
+- HTML  
+- CSS  
+- JavaScript  
+- Git & GitHub  
 - Linux (basics)
-
-## 📚 Currently learning
-- React
-- Javascript
 - Python
 
-## 📫 Contact
-- Email: tapilysidy@email.com
-- linkedin : https://www.linkedin.com/in/sidy-tapily-712385381/
+---
+
+## 📚 Currently Learning
+- React
+- 
+
+---
+
+## 🎯 Goals
+- Improve my web development skills  
+- Build real-world projects  
+- Grow as a software developer
+
+---
+
+Thanks for visiting my GitHub profile 😊  
+Feel free to explore my repositories!
