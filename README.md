@@ -18,8 +18,9 @@ I'm an **IT / Computer Science student** passionate about technology and program
 ---
 
 ## 📚 Currently Learning
+- Java
 - React
-- 
+- Docker
 
 ---
 
