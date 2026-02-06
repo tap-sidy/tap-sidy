@@ -2,7 +2,6 @@
 
 I'm an **IT / Computer Science student** passionate about technology and programming.
 
-🌍 **Location:** Mali  
 💻 **Interests:** Web Development & Software Programming  
 
 ---
