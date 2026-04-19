@@ -1,66 +1,70 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi
+### 💻 Computer Science Student | DevOps Enthusiast
 
-### 💻 Computer Science Student | DevOps Enthusiast | Aspiring Cloud Engineer
-
-I’m passionate about building reliable systems, automating workflows, and understanding how applications move from code to production.  
-Currently focusing on **software development, Linux systems, and DevOps fundamentals**.
+I’m passionate about building modern applications, writing clean code, and understanding how systems are deployed and managed.  
+My goal is to bridge the gap between **software development and DevOps practices**.
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Development
+### 💻 Frontend Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+### 🐍 Backend & Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-### ⚙️ DevOps & Systems
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ---
 
 ## 📚 Currently Learning
-- Docker & containerization workflows  
-- Linux system administration  
-- CI/CD pipelines (GitHub Actions / Jenkins basics)  
-- React for modern frontend development  
+- Advanced React (hooks, routing, state management)
+- Python for automation & scripting
+- Docker & containerization
+- Linux system administration
+- CI/CD pipelines (GitHub Actions)
 
 ---
 
-## 🎯 Career Goals
-- Become a **DevOps Engineer / Cloud Engineer**
-- Master CI/CD automation and deployment pipelines
-- Build and deploy real-world full-stack projects
-- Gain hands-on experience with cloud platforms
+## 🎯 Goals
+- Become a **DevOps / Cloud Engineer**
+- Build and deploy full-stack applications
+- Automate workflows using CI/CD
+- Improve infrastructure and system understanding
+- Contribute to real-world projects
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
-## 📂 Projects
-🚧 Building my portfolio step by step...  
-✔️ Web development projects  
-✔️ DevOps practice labs (Docker, Linux, automation)  
-✔️ More coming soon...
+## 🔥 Current Focus Projects
+- React web applications with API integration
+- Python automation scripts
+- Dockerized applications
+- DevOps practice labs (CI/CD pipelines)
+
 
 ---
 
-## 🌱 Philosophy
-> "Learn by building. Understand by breaking. Improve by automating."
-
----
-
-## 📫 Connect with Me
-- GitHub: [your-github]
-- Email: [your-email]
+## 📫 Contact
+- 
+- Email: [tapilysidy@gmail.com]
 
 ---
 
