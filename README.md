@@ -1,53 +1,24 @@
-# 👋 Hi
+# Hey there! 👋
 
-💻 **IT / Computer Science Student | Future DevOps Enthusiast**
+I'm Sidy, a Systems and Network Engineering student.
 
-I’m passionate about technology, software development, and how systems work behind the scenes.  
-Currently, I’m exploring both **development and system administration**, with a growing interest in **DevOps practices**.
+I'm passionate about networking, Linux, system administration, and building web applications.
 
----
+Currently, I'm learning DevOps and CCNA while improving my development skills every day.
 
-## 🚀 About Me
-- 🎓 Computer Science student
-- 🌱 Interested in **DevOps, Web Development & System Administration**
-- ⚙️ Learning how to build and deploy applications
-- 🧠 Always improving my technical skills step by step
+My goal is to become a DevOps Engineer and work on reliable, scalable, and well-designed systems.
 
----
-
-## 🛠️ Skills
-
-### 💻 Development
-- HTML / CSS / JavaScript   
+### Currently focusing on:
+- Linux
+- Docker
+- CCNA
+- Git & GitHub
 - React
-- Python (basic)  
+- CI/CD Fundamentals
 
-### ⚙️ Systems & DevOps Basics
-- Git & GitHub  
-- Linux   
-- Docker 
-- Basic CI/CD understanding
+### Fun Facts:
+- I enjoy learning how things work behind the scenes
+- I like building projects to practice what I learn
+- I'm always exploring new technologies
 
----
-
-## 📚 Currently Learning
-- Docker & containerization basics  
-- Linux system administration  
-- CI/CD concepts  
-- React for frontend development
-
----
-
-## 🎯 Goals
-- Become a **DevOps Engineer in the future**
-- Improve my understanding of systems and deployment
-- Build real-world projects (web apps + deployment)
-- Learn cloud fundamentals step by step
-
-
----
-
-## 📫 Contact
-- Email: [tapilysidy@gmail.com]
-
----
+Thanks for stopping by 👨‍💻
