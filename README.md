@@ -6,7 +6,7 @@ Passionate about infrastructure, network architecture, and system administration
 
 ---
 
-### 🌐 Core Technical Skills
+###  Core Technical Skills
 
 **Network Engineering**
 * **Routing & Switching:** OSPF, STP/RSTP, VLANs, Inter-VLAN Routing, EtherChannel, Multilayer Switching
@@ -21,22 +21,22 @@ Passionate about infrastructure, network architecture, and system administration
 
 ---
 
-### 🛠️ Hands-On Projects & Labs
+###  Hands-On Projects & Labs
 
-* 📡 **Enterprise Network Topologies:** Designing multi-vendor labs in EVE-NG with Cisco switches and Fortinet firewalls.
-* 🖥️ **Physical Infrastructure Services:** Deploying and configuring physical BIND9 DNS and network services on Linux.
-* 🔒 **Network Hardening:** Implementing strict access controls, VLAN segmentation, and secure device access.
-
----
-
-### 📜 Certifications & Goals
-
-* 🎯 Currently preparing for **Cisco CCNA**
+*  **Enterprise Network Topologies:** Designing multi-vendor labs in EVE-NG with Cisco switches and Fortinet firewalls.
+*  **Physical Infrastructure Services:** Deploying and configuring physical BIND9 DNS and network services on Linux.
+*  **Network Hardening:** Implementing strict access controls, VLAN segmentation, and secure device access.
 
 ---
 
-### 📬 Connect with Me
+###  Certifications & Goals
 
-- 💼 **LinkedIn:** [Your LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sidy-tapily-712385381/?locale=fr))
+*  Currently preparing for **Cisco CCNA**
+
+---
+
+###  Connect with Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sidy-tapily-712385381/?locale=fr
 
 *"Mastering packet flow, system administration, and infrastructure security."*
