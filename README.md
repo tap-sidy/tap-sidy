@@ -1,24 +1,42 @@
-# Hey there! 👋
+# Hey there! 👋 I'm Sidy
 
-I'm Sidy, a Systems and Network Engineering student.
+🎓 **Systems & Network Engineering Student**
 
-I'm passionate about networking, Linux, system administration, and building web applications.
+Passionate about infrastructure, network architecture, and system administration. I focus on designing, configuring, and securing robust networks and managing Linux environments from the ground up.
 
-Currently, I'm learning DevOps and CCNA while improving my development skills every day.
+---
 
-My goal is to become a DevOps Engineer and work on reliable, scalable, and well-designed systems.
+### 🌐 Core Technical Skills
 
-### Currently focusing on:
-- Linux
-- Docker
-- CCNA
-- Git & GitHub
-- React
-- CI/CD Fundamentals
+**Network Engineering**
+* **Routing & Switching:** OSPF, STP/RSTP, VLANs, Inter-VLAN Routing, EtherChannel, Multilayer Switching
+* **Network Security & Firewalls:** Fortinet FortiGate, SSH Hardening, ACLs, Port Security
+* **Infrastructure Services:** DNS (BIND9), DHCP, Wireless LAN Controllers (WLC), IPAM
+* **Labbing & Simulation:** EVE-NG, Cisco Packet Tracer, VMware Workstation
 
-### Fun Facts:
-- I enjoy learning how things work behind the scenes
-- I like building projects to practice what I learn
-- I'm always exploring new technologies
+**Systems & Administration**
+* **Operating Systems:** Linux (Debian, Ubuntu, Server Hardening), Windows Server
+* **Virtualization:** VMware Workstation, VirtualBox
+* **Scripting & Tools:** Python (Flask, Django), Shell Scripting, MobaXterm,
 
-Thanks for stopping by 👨‍💻
+---
+
+### 🛠️ Hands-On Projects & Labs
+
+* 📡 **Enterprise Network Topologies:** Designing multi-vendor labs in EVE-NG with Cisco switches and Fortinet firewalls.
+* 🖥️ **Physical Infrastructure Services:** Deploying and configuring physical BIND9 DNS and network services on Linux.
+* 🔒 **Network Hardening:** Implementing strict access controls, VLAN segmentation, and secure device access.
+
+---
+
+### 📜 Certifications & Goals
+
+* 🎯 Currently preparing for **Cisco CCNA**
+
+---
+
+### 📬 Connect with Me
+
+- 💼 **LinkedIn:** [Your LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sidy-tapily-712385381/?locale=fr))
+
+*"Mastering packet flow, system administration, and infrastructure security."*
