@@ -37,6 +37,6 @@ Passionate about infrastructure, network architecture, and system administration
 
 ###  Connect with Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/sidy-tapily-712385381/?locale=fr
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sidy-tapily-712385381/
 
 *"Mastering packet flow, system administration, and infrastructure security."*
